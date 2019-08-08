@@ -1,0 +1,7 @@
+{
+  "name": "grpc-node-example",
+  "version": "1.0.0",
+  "dependencies": {
+    "grpc": "^1.22.2"
+  }
+}
